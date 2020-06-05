@@ -1,0 +1,117 @@
+td{
+    border: 4px solid white;
+}
+
+p{
+   font-size:10 px; 
+}
+.A{
+    font-size: 20px;
+}
+.B{
+    background-color: rgb(235, 235, 243);
+}
+table{
+    border-collapse: collapse;
+    background-color: white;
+}
+.jaune1{
+    background-color: #F0F9C1;
+}
+.jaune2{
+    background-color:#FEECB9;
+}
+.orange1{
+    background-color:#F8A78E;
+}
+.orange2{
+    background-color: #FECEA0;
+
+}
+.vert1{
+      background-color: #A3DAC9;
+}
+.vert2{
+    background-color: #CDEBC8;
+}
+.viole{
+    background-color: #9E95C7;
+}
+.bleu{
+    background-color: #84B8D7;
+}
+.R1{
+    background-color: #E68B95;
+}
+.R2{
+    background-color: #C5678E;
+}
+
+td{
+    text-align: center;
+}
+.img{
+    height:250px;
+    width: 350px;
+}
+
+@media screen and (max-width: 1280px)
+{
+    p{
+        font-size: 7px;
+    }
+    .A{
+        font-size:13px;
+     }
+     .img{
+        height:90px;
+        width: 100px;
+    }
+    .titre{
+        font-size: 10px;
+    }
+    .C{
+        font-size:13px;
+    }
+    .page{
+        
+       
+    }
+  
+    td{
+        border:
+        1px solid white;
+     }
+
+     
+}
+
+@media screen and (max-width: 800px)
+{
+    p{
+        font-size: 3px;
+    }
+    .A{
+        font-size:5px;
+     }
+     .img{
+        height:90px;
+        width: 100px;
+    }
+    .titre{
+        font-size: 7px;
+    }
+    .C{
+        font-size:13px;
+    }
+    
+  
+    td{
+        border:
+        1px solid white;
+     }
+
+     
+}
+
+
